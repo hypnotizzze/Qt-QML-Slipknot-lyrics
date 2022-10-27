@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/slip.jpg</file>
+    </qresource>
+</RCC>
